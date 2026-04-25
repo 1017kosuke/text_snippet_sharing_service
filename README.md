@@ -5,7 +5,7 @@ A lightweight code snippet sharing service.
 
 ---
 
-## 🇺🇸 English
+## English
 
 ### Overview
 SharePet is a web application that allows users to create, store, and share code snippets through unique URLs.  
